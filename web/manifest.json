@@ -1,6 +1,6 @@
 {
-    "name": "pokemon_session",
-    "short_name": "pokemon_session",
+    "name": "form_session",
+    "short_name": "form_session",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

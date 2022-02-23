@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pokemon_session">
+    package="com.example.form_session">
    <application
-        android:label="pokemon_session"
+        android:label="form_session"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
