@@ -1,4 +1,4 @@
-# firebase_session
+# session_8
 
 A new Flutter application.
 
