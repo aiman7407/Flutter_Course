@@ -1,6 +1,6 @@
 {
-    "name": "session_8",
-    "short_name": "session_8",
+    "name": "pokemon_session",
+    "short_name": "pokemon_session",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-package com.example.session_8
+package com.example.pokemon_session
 
 import io.flutter.embedding.android.FlutterActivity
 

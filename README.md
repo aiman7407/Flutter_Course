@@ -1,4 +1,4 @@
-# session_8
+# pokemon_session
 
 A new Flutter application.
 
