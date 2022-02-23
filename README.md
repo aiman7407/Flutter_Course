@@ -1,4 +1,4 @@
-# bloc_session
+# firebase_session
 
 A new Flutter application.
 

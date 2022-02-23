@@ -1,4 +1,4 @@
-package com.example.bloc_session
+package com.example.firebase_session
 
 import io.flutter.embedding.android.FlutterActivity
 
