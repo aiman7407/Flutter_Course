@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_seesion2">
+    package="com.example.flutter_session3">
    <application
-        android:label="flutter_seesion2"
+        android:label="flutter_session3"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
