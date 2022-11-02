@@ -1,6 +1,6 @@
 {
-    "name": "flutter_session3",
-    "short_name": "flutter_session3",
+    "name": "paper_scissor_rock_session",
+    "short_name": "paper_scissor_rock_session",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_session3">
+    package="com.example.paper_scissor_rock_session">
    <application
-        android:label="flutter_session3"
+        android:label="paper_scissor_rock_session"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

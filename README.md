@@ -1,4 +1,4 @@
-# flutter_session3
+# paper_scissor_rock_session
 
 A new Flutter application.
 
