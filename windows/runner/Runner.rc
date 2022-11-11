@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "paper_scissor_rock_session" "\0"
+            VALUE "FileDescription", "session4_eraasoft" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "paper_scissor_rock_session" "\0"
+            VALUE "InternalName", "session4_eraasoft" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "paper_scissor_rock_session.exe" "\0"
-            VALUE "ProductName", "paper_scissor_rock_session" "\0"
+            VALUE "OriginalFilename", "session4_eraasoft.exe" "\0"
+            VALUE "ProductName", "session4_eraasoft" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

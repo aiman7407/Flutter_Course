@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.paper_scissor_rock_session">
+    package="com.example.session4_eraasoft">
    <application
-        android:label="paper_scissor_rock_session"
+        android:label="session4_eraasoft"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

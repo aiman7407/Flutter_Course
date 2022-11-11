@@ -1,4 +1,4 @@
-# paper_scissor_rock_session
+# session4_eraasoft
 
 A new Flutter application.
 
