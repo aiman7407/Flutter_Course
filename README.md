@@ -1,2 +1,2 @@
-Contacts App
-BMI Calculator
+Quiz App
+Quraan App

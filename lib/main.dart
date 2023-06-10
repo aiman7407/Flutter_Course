@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'src/app_root.dart';
+import 'app_root/app_root.dart';
 
-main(){
-
-
-  runApp(AppRoot());
+void main() {
+  runApp(const AppRoot());
 }
+
+
+
+
